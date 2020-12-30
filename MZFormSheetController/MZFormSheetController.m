@@ -24,7 +24,6 @@
 //  THE SOFTWARE.
 
 #import "MZFormSheetController.h"
-#import "NSInvocation+Copy.h"
 #import <QuartzCore/QuartzCore.h>
 #import <objc/runtime.h>
 #import "MZFormSheetBackgroundWindowViewController.h"
